@@ -1,0 +1,10 @@
+How to run :
+
+
+1. Make a folder and name it 'static'. inside the folder, place both script.js and style.css
+2. Make a folder and name it 'templates'. inside the folder, place the index.html
+
+After you have finished both steps above, try to run the program by executing app.py in your IDE.
+
+
+In case the steps above doesn't work, try to execute the ml_model.ipynb to get the newest knn_model, then you can proceed to retry executing the app.py
